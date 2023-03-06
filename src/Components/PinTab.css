@@ -1,0 +1,17 @@
+.pintab {
+  text-align: center;
+}
+
+.pinInput {
+  width: 25px;
+  margin: 5px;
+  line-height: 1rem;
+  font-size: 1rem;
+  padding: 10px;
+  background-color: white;
+}
+
+.pinInput:focus {
+  color: crimson;
+  background-color: aliceblue;
+}
